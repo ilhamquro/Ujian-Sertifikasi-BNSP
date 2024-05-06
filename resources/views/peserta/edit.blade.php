@@ -98,7 +98,7 @@
                                 Ubah
                             </button>
                             {{-- Tombol Kembali --}}
-                            <a href="{{url('/')}}" class="btn btn-primary btn-block btn-lg shadow-lg mt-5"> Kembali</a>
+                            <a href="{{route('peserta')}}" class="btn btn-primary btn-block btn-lg shadow-lg mt-5"> Kembali</a>
                         </form>
                         <div class="text-center mt-5 text-lg fs-4">
                             <p class='text-gray-600'>
